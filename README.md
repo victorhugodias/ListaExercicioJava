@@ -1,1 +1,1 @@
-# Lista Básica para treinamento da linguagem Java
+# Lista de Exercício Básico para treinamento da linguagem Java.
